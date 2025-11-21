@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ana Silva",
+      "age": 28,
+      "email": "ana.silva@email.com",
+      "location": "São Paulo, SP",
+      "avatar": "/professional-woman-smiling.png",
+      "role": "Desenvolvedora Full Stack",
+      "level": 12,
+      "points": 2450,
+      "completedChallenges": 23,
+      "learningPaths": 5,
+      "joinedDate": "2024-01-15",
+      "bio": "Apaixonada por tecnologia e sustentabilidade",
+      "skills": [
+        { "name": "React", "level": 90 },
+        { "name": "Node.js", "level": 85 },
+        { "name": "TypeScript", "level": 88 },
+        { "name": "JavaScript", "level": 92 },
+        { "name": "CSS", "level": 87 },
+        { "name": "Git", "level": 90 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mariana Costa",
+      "age": 32,
+      "email": "mariana.costa@email.com",
+      "location": "Rio de Janeiro, RJ",
+      "avatar": "/professional-business-woman.png",
+      "role": "UX/UI Designer",
+      "level": 15,
+      "points": 3200,
+      "completedChallenges": 31,
+      "learningPaths": 7,
+      "joinedDate": "2023-09-20",
+      "bio": "Criando experiências memoráveis para usuários",
+      "skills": [
+        { "name": "Figma", "level": 95 },
+        { "name": "Design Thinking", "level": 92 },
+        { "name": "Prototipagem", "level": 88 },
+        { "name": "Adobe XD", "level": 85 },
+        { "name": "User Research", "level": 90 },
+        { "name": "Wireframing", "level": 93 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Juliana Oliveira",
+      "age": 26,
+      "email": "juliana.oliveira@email.com",
+      "location": "Belo Horizonte, MG",
+      "avatar": "/young-professional-woman.png",
+      "role": "Data Scientist",
+      "level": 10,
+      "points": 1890,
+      "completedChallenges": 18,
+      "learningPaths": 4,
+      "joinedDate": "2024-03-10",
+      "bio": "Transformando dados em insights valiosos",
+      "skills": [
+        { "name": "Python", "level": 92 },
+        { "name": "Machine Learning", "level": 87 },
+        { "name": "SQL", "level": 85 },
+        { "name": "Pandas", "level": 90 },
+        { "name": "TensorFlow", "level": 82 },
+        { "name": "Data Visualization", "level": 88 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Carla Santos",
+      "age": 35,
+      "email": "carla.santos@email.com",
+      "location": "Curitiba, PR",
+      "avatar": "/professional-woman-executive.png",
+      "role": "Product Manager",
+      "level": 18,
+      "points": 4100,
+      "completedChallenges": 42,
+      "learningPaths": 9,
+      "joinedDate": "2023-05-12",
+      "bio": "Liderando equipes para criar produtos incríveis",
+      "skills": [
+        { "name": "Gestão de Produtos", "level": 94 },
+        { "name": "Agile", "level": 90 },
+        { "name": "Liderança", "level": 93 },
+        { "name": "Roadmapping", "level": 91 },
+        { "name": "Análise de Métricas", "level": 89 },
+        { "name": "Stakeholder Management", "level": 92 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Beatriz Lima",
+      "age": 29,
+      "email": "beatriz.lima@email.com",
+      "location": "Porto Alegre, RS",
+      "avatar": "/professional-woman-tech.jpg",
+      "role": "DevOps Engineer",
+      "level": 13,
+      "points": 2680,
+      "completedChallenges": 26,
+      "learningPaths": 6,
+      "joinedDate": "2023-11-08",
+      "bio": "Automatizando processos e otimizando infraestrutura",
+      "skills": [
+        { "name": "Kubernetes", "level": 88 },
+        { "name": "Docker", "level": 91 },
+        { "name": "AWS", "level": 86 },
+        { "name": "CI/CD", "level": 90 },
+        { "name": "Terraform", "level": 85 },
+        { "name": "Linux", "level": 89 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fernanda Rodrigues",
+      "age": 31,
+      "email": "fernanda.rodrigues@email.com",
+      "location": "Brasília, DF",
+      "avatar": "/professional-woman-consultant.png",
+      "role": "Consultora de Negócios",
+      "level": 14,
+      "points": 2890,
+      "completedChallenges": 29,
+      "learningPaths": 7,
+      "joinedDate": "2023-08-25",
+      "bio": "Ajudando empresas a alcançarem seus objetivos",
+      "skills": [
+        { "name": "Estratégia", "level": 89 },
+        { "name": "Análise de Mercado", "level": 87 },
+        { "name": "Consultoria", "level": 91 },
+        { "name": "Business Intelligence", "level": 86 },
+        { "name": "Planejamento Estratégico", "level": 90 },
+        { "name": "Gestão de Projetos", "level": 88 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Camila Ferreira",
+      "age": 27,
+      "email": "camila.ferreira@email.com",
+      "location": "Florianópolis, SC",
+      "avatar": "/professional-woman-developer.png",
+      "role": "Mobile Developer",
+      "level": 11,
+      "points": 2150,
+      "completedChallenges": 21,
+      "learningPaths": 5,
+      "joinedDate": "2024-02-01",
+      "bio": "Criando aplicativos mobile inovadores",
+      "skills": [
+        { "name": "React Native", "level": 90 },
+        { "name": "Flutter", "level": 82 },
+        { "name": "Mobile UI", "level": 88 },
+        { "name": "iOS Development", "level": 85 },
+        { "name": "Android Development", "level": 86 },
+        { "name": "API Integration", "level": 89 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Patrícia Almeida",
+      "age": 33,
+      "email": "patricia.almeida@email.com",
+      "location": "Salvador, BA",
+      "avatar": "/professional-woman-manager.png",
+      "role": "Scrum Master",
+      "level": 16,
+      "points": 3450,
+      "completedChallenges": 35,
+      "learningPaths": 8,
+      "joinedDate": "2023-07-14",
+      "bio": "Facilitando a colaboração e entrega de valor",
+      "skills": [
+        { "name": "Scrum", "level": 96 },
+        { "name": "Facilitação", "level": 92 },
+        { "name": "Coaching", "level": 89 },
+        { "name": "Kanban", "level": 88 },
+        { "name": "Team Building", "level": 91 },
+        { "name": "Conflict Resolution", "level": 87 }
+      ]
+    }
+  ]
+}
