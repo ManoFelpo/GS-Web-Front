@@ -38,7 +38,7 @@ git clone https://github.com/ManoFelpo/GS-Web-Front.git
 
 #### 2️⃣ Acessar a pasta do projeto
 ```bash
-cd donas-da-bola
+cd GS-Web-Front
 ```
 
 #### 3️⃣ Instalar dependências
@@ -51,7 +51,7 @@ npm install
 npm run dev
 ```
 
-Acesse em: http://localhost:5173/
+Acesse em: http://localhost:3000/
 
 ---
 
